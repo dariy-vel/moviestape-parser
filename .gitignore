@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# my own stuff
+.idea
+local_settings.py
+geckodriver.*
