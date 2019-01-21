@@ -107,3 +107,4 @@ venv.bak/
 .idea
 local_settings.py
 geckodriver.*
+last_movie.txt
